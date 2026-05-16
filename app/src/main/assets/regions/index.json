@@ -1,0 +1,6 @@
+{
+  "regions": [
+    {"id": "moscow", "name": "Москва", "file": "regions/moscow.json"},
+    {"id": "spb", "name": "Санкт-Петербург", "file": "regions/spb.json"}
+  ]
+}
